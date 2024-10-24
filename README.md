@@ -49,6 +49,10 @@ You can use custom wordlists for directory and subdomain enumeration. If you cho
 
 The tool will generate a `pentest_report.txt` file containing the results of the scans.
 
+## Important Warning
+
+**WARNING:** This tool is intended for educational and ethical use only.Unauthorized use of this tool against any website or system without permission is illegal and may lead to severe legal consequences. Always ensure you have explicit permission to test a website's security before proceeding.
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, please open an issue or submit a pull request.
@@ -58,6 +62,10 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 ## Author
 
 **Deepanshu Deep** - [Your LinkedIn Profile](https://www.linkedin.com/in/deepanshu-deep24/)
-```
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
