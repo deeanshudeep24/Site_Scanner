@@ -1,6 +1,3 @@
-
-
-```markdown
 # Site Scanner
 
 Welcome to the **Site Scanner**, a Python-based web security analysis tool designed to help identify common vulnerabilities in websites. This tool automates various penetration testing tasks to enhance the security assessment process.
